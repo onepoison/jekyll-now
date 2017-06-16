@@ -1,15 +1,16 @@
 ---
 layout: page
 title: About
+comment: true
 permalink: /about/
 ---
 
-Some information about you!
+one poison
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+under development.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[iamfinethankyou2@gmail.com](mailto:iamfinethankyou2@gmail.com)
