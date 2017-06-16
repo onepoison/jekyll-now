@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-comment: true
+comments: true
 permalink: /about/
 ---
 
